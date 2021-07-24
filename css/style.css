@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.panda-bg-info {
+  background-color: #feeae9;
+}
+.catagories-yellow {
+  background-color: #ffa500;
+}
+.catagories-purple {
+  background-color: #da70d6;
+}
+.catagories-blue {
+  background-color: #0000ff;
+}
+.btn-buy-now-red {
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.text-red {
+  color: #ff136f;
+}
+.card-footer-white {
+  border: 0;
+  background-color: #fff;
+  margin: 15px;
+}
